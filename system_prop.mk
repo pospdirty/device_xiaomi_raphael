@@ -106,5 +106,4 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # Vendor
 PRODUCT_PROPERTY_OVERRIDES += \
-    ro.vendor.qti.va_aosp.support=1 \
-    persist.device_config.runtime_native.usap_pool_enabled=true
+    ro.vendor.qti.va_aosp.support=1
